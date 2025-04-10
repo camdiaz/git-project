@@ -8,7 +8,7 @@ import {
   CardMedia
 } from '@mui/material';
 import Mulan from '../images/cartoonCharacters/Mulan.jpg';
-
+import Chavo from '../images/cartoonCharacters/Chavo.webp';
 
 const gridItems = [
   {
@@ -19,9 +19,9 @@ const gridItems = [
   },
   {
     id: 2,
-    title: '2',
-    content: 'Contenido del 2',
-    image: null
+    title: 'Chavo del 8',
+    content: 'Porque es traste como yo',
+    image: Chavo
   },
   {
     id: 3,
