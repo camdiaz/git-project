@@ -44,7 +44,7 @@ const gridItems = [
   {
     id: 6,
     title: '6',
-    content: 'Contenido del 6',
+    content: 'Informacion de documento 6',
     image: null
   },
   {
